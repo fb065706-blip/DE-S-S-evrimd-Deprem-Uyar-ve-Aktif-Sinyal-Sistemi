@@ -1,2 +1,2 @@
-# DE-S-S-evrimd-Deprem-Uyar-ve-Aktif-Sinyal-Sistemi
+# DE-SIS-Deprem-Sinyal-ve-İkaz-Sistemi
 Ortaokul öğrencileri için geliştirilmiş, çevrimdışı çalışan mobil afet yönetim teknolojisi.
